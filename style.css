@@ -1,0 +1,45 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #fdfdfd;
+  color: #333;
+}
+header {
+  background: #6200ea;
+  color: white;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+.resume-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: white;
+  color: #6200ea;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.resume-btn:hover {
+  background-color: #fff;
+  color: #6200ea;
+}
+main {
+  padding: 2rem;
+}
+h2 {
+  color: #6200ea;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #eee;
+}
